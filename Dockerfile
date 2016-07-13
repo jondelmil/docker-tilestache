@@ -14,6 +14,7 @@ RUN apt-get update -y \
         python-dev \
         python-pip \
         python-gdal \
+        python-shapely \
         libboost-python-dev \
         software-properties-common \
         libmapnik2.2 \
