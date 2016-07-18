@@ -40,7 +40,8 @@ RUN pip install \
     sympy \
     tilestache \
     uwsgi \
-    werkzeug
+    werkzeug \
+    psycopg2
 
 VOLUME ["/var/tilestache"]
 
